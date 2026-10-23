@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FEtHEr (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FEtHEr (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
