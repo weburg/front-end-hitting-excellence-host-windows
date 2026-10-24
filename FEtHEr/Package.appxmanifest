@@ -10,14 +10,14 @@
 
   <Identity
     Name="9bc83b1f-9ba3-483c-a1ac-71f031c0258e"
-    Publisher="CN=wweburg"
+    Publisher="CN=Weburg"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="9bc83b1f-9ba3-483c-a1ac-71f031c0258e" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>FEtHEr</DisplayName>
-    <PublisherDisplayName>wweburg</PublisherDisplayName>
+    <PublisherDisplayName>Weburg</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
