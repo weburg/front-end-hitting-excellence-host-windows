@@ -35,11 +35,8 @@ namespace FEtHEr
             WindowId windowId = Win32Interop.GetWindowIdFromWindow(hwnd);
 
             AppWindow appWindow = AppWindow.GetFromWindowId(windowId);
-
             appWindow.SetIcon("Assets\\FEtHEr.ico");
-            appWindow.TitleBar.BackgroundColor = Colors.Navy;
-            appWindow.TitleBar.ButtonBackgroundColor = Colors.Navy;
-            appWindow.TitleBar.ButtonHoverBackgroundColor = Colors.Blue;
+            appWindow.TitleBar.PreferredTheme = TitleBarTheme.UseDefaultAppMode;
         }
     }
 }
