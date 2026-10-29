@@ -20,9 +20,9 @@
         Spacing="20">
 
             <TextBlock
-            Text="Hello Kailani!"
+            Text="Excellent!"
             FontSize="36"
-            Foreground="Pink"
+            Foreground="HotPink"
             HorizontalAlignment="Center"/>
         </StackPanel>
     </Grid>
