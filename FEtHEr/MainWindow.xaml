@@ -13,7 +13,7 @@
         <MicaBackdrop />
     </Window.SystemBackdrop>
 
-    <Grid Background="Navy">
+    <Grid Background="{ThemeResource FetherPageBackgroundBrush}">
         <StackPanel
         HorizontalAlignment="Center"
         VerticalAlignment="Center"
@@ -22,7 +22,7 @@
             <TextBlock
             Text="Excellent!"
             FontSize="36"
-            Foreground="HotPink"
+            Foreground="{ThemeResource FetherPrimaryTextBrush}"
             HorizontalAlignment="Center"/>
         </StackPanel>
     </Grid>

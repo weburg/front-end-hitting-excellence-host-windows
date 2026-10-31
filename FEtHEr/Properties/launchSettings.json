@@ -1,10 +1,17 @@
 {
   "profiles": {
     "FEtHEr (Package)": {
-      "commandName": "MsixPackage"
+      "commandName": "MsixPackage",
+      "remoteDebugEnabled": false
     },
     "FEtHEr (Unpackaged)": {
       "commandName": "Project"
+    },
+    "FEtHEr (Package) whisper": {
+      "commandName": "MsixPackage",
+      "remoteDebugEnabled": true,
+      "remoteDebugMachine": "whisper",
+      "authenticationMode": "Windows"
     }
   }
 }
