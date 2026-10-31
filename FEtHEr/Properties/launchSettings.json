@@ -7,10 +7,10 @@
     "FEtHEr (Unpackaged)": {
       "commandName": "Project"
     },
-    "FEtHEr (Package) whisper": {
+    "FEtHEr (Package) WHISPER": {
       "commandName": "MsixPackage",
       "remoteDebugEnabled": true,
-      "remoteDebugMachine": "whisper",
+      "remoteDebugMachine": "WHISPER",
       "authenticationMode": "Windows"
     }
   }
